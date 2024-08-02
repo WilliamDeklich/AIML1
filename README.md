@@ -1,4 +1,5 @@
 # My-segnet-final
+https://drive.google.com/drive/folders/165dQauH7XeB1pRilFeitA3wXLkgTTU_P?usp=sharing This is a link to a google drive which has the photos for my thumbs up project, i couldn't upload it all at once because it was too big
 The project uses segmentation to discern different objects and outputs a mask using different colors to visualise where the objects are on screen. This project in particular is able to detect cars, buses, people, lights, signs, the road, the sky, and trees.
 
 ![add image descrition here](direct image link here)
